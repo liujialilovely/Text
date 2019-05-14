@@ -1,0 +1,41 @@
+body{
+	background: url(../img/000-mMqtigrBLecN.jpg);
+	
+}
+.div1{
+	font-size: 36px;
+	font-style:oblique;
+	color: red;
+	position: absolute;
+	left:15px;
+	top:55px;
+}
+.div2{
+	font-size: 25px;
+	
+font-weight: bold;
+	position: absolute;
+	left:120px;
+	top:160px;
+}
+.div3{
+	font-size: 13px;
+
+	position: absolute;
+	left:10px;
+	top:270px;
+}
+.div4{
+	font-size: 13px;
+	position: absolute;
+	left:286px;
+	top:600px;
+}
+.div4 input{
+	width: 81px;
+	height: 36px;
+	font-size: 13px;
+	background-color: #ced960;
+
+}
+

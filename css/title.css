@@ -1,0 +1,41 @@
+body{
+	background: url(../img/000-mMqtigrBLecN.jpg);
+	
+}
+.photo{
+	position: absolute;
+	left: 15px;
+	top: 20px;
+	
+}
+.photo img{
+	width: 350px;
+	height: 225px;
+}
+.one{
+		position: absolute;
+	left:55px;
+	top: 300px;
+	
+	
+}
+.yes{
+		position: absolute;
+	left: 88px;
+	top: 390px;
+}
+
+.no{
+			position: absolute;
+	left: 235px;
+	top: 390px;
+}
+
+input{
+	font-size: 15px;
+	width: 70px;
+	height: 40px;
+	background-color: goldenrod;
+}
+
+/*380 626*/

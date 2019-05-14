@@ -1,0 +1,25 @@
+.title1{
+text-align:center;
+	font-size:40px;
+	font-weight:bold;
+}
+.content{
+	font-size:15px;
+}
+body{
+	color:#d2d1d1;
+	background: url(../img/t0161e18f74a36dbf3e.jpg);
+}
+.button{
+	position: absolute;
+	left :263px;
+	top:465px;
+	
+}
+.button input{
+	width: 84px;
+	height: 40px;
+	fond-size:20px;
+	background-color: #d5a55c;
+	}
+
